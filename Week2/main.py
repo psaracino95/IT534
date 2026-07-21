@@ -1,12 +1,14 @@
+#Peter Saracino
+#IT-534
 from variable_sorter import VariableSort
 def main():
     sorter = VariableSort()
 
-    print("==================================================")
+    print("===============================================")
     print("Welcome to the Variable Sorter Application!")
     print("Rules: Integers, Floats, and Alphabetic-only strings.")
     print("Type 'exit' or 'stop' at any time to end and view results.")
-    print("==================================================")
+    print("=================================================")
 
     # MAIN LOOP
     while True:
@@ -27,7 +29,7 @@ def main():
             print(f"Error: {e}")
         except KeyboardInterrupt:
             #Ctrl+C
-            print("\n\nProgram interrupted by user. Exiting...")
+            print("\n\nProgram interrupted. Exiting...")
             break
 
     # Display final results once the loop finishes

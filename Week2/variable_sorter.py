@@ -16,7 +16,7 @@ class VariableSort:
         Validates the raw string input, determines its true data type, 
         and appends it to the correct list.
 
-        Args:
+        Argues:
             raw_value (str): The raw string input from the user.
 
         Returns:
