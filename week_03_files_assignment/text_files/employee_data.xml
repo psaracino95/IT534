@@ -1,0 +1,26 @@
+<employee_data>
+    <employee>
+        <emp_name>Clancy Stuart</emp_name>
+        <title>CEO</title>
+        <phone>555-823-1388</phone>
+        <profile_pic>clancy_stuart.jpg</profile_pic>
+    </employee>
+    <employee>
+        <emp_name>Patricia O’Leaery</emp_name>
+        <title>Controller</title>
+        <phone>555-823-1723</phone>
+        <profile_pic>patricia_oleary.jpg</profile_pic>
+    </employee>
+    <employee>
+        <emp_name>Julie Malo–Kopp</emp_name>
+        <title>VP of Marketing</title>
+        <phone>555-823-1530</phone>
+        <profile_pic>juliemalokopp.jpg</profile_pic>
+    </employee>
+    <employee>
+        <emp_name>Erik Headly</emp_name>
+        <title>Salesperson</title>
+        <phone>555-823-1262</phone>
+        <profile_pic>erik_headly.jpg</profile_pic>
+    </employee>
+</employee_data>
